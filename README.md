@@ -77,9 +77,15 @@ changes, enabling swift business responses.
 - Performance Monitoring: Regularly track key metrics to monitor business 
 health and identify areas for strategic focus.
 ### Datasource 
-The project consists of two dataset namely 
-This gives you access to the raw data used for the project . 
-## Data Cleaning 
-The raw data was quite neat from the onset. Firstly, the date columns was formatted to from number to date format
+The project consists of two dataset namely, Transaction dataset and products dataset. <br>
+This gives you access to the raw data used for the project .  [B&J Buscuit Practice Dataset.xlsx](https://github.com/user-attachments/files/18069115/B.J.Buscuit.Practice.Dataset.xlsx)
+
+## Data Cleaning
 Addition of new of columns was one of the key assignment inorder to prepare the data for proper analysis.
-#### New C
+- The raw data was quite neat from the onset. Firstly, the date columns was formatted to from number to date format.
+- Xlookup was used to get data from the product dataset to the transaction dataset with product code as lookup value for the biscuits brand, unit price and cost.
+#### New Columns.
+- Revenue: Quantity sold * Unit Price
+- COGS: Quantity sold * Cost Price
+- Profit: Revenue - COGS
+- Product Type:Less expensive product [If unit price < 10 Euros] and Expensive if otherwise
