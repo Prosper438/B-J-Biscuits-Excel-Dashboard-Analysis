@@ -92,3 +92,6 @@ Addition of new of columns was one of the key assignment inorder to prepare the 
 - Age: The date_diff function was utilized here, making use of the buyer's date of birth and transaction date inorder to get the age of the buyer during time of transaction.
 - Age group: The floor excel function was used here for grouping the age into interval of 14 years apart.
 - Full Name: This is gotten by using the Text Join function to combine first and last name.
+- Weekdays: With the use of the text function, I was able to format the transaction date into days format.
+- Weektype: This divides the weekdays into weekends and weekdays.
+  
