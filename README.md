@@ -89,3 +89,6 @@ Addition of new of columns was one of the key assignment inorder to prepare the 
 - COGS: Quantity sold * Cost Price
 - Profit: Revenue - COGS
 - Product Type:Less expensive product [If unit price < 10 Euros] and Expensive if otherwise
+- Age: The date_diff function was utilized here, making use of the buyer's date of birth and transaction date inorder to get the age of the buyer during time of transaction.
+- Age group: The floor excel function was used here for grouping the age into interval of 14 years apart.
+- Full Name: This is gotten by using the Text Join function to combine first and last name.
