@@ -98,4 +98,17 @@ In addition, excel pivot table came in handy in summarizing of data and also for
 
 ## Insights from Analysis.
 From the first dashboard analysis, I was able to conclude that
-- Goods was sold 
+- Generally, mobile payment was the most used payment platform for goods purchase.
+- Debit card generates more revenue and profit in the sense that expensive goods are mostly bought via debit card.
+- The male gender has the highest purchasing power in all age group and in turn generates most revenue and porfit.
+- In general, expensive product generates the most revenue.
+- The purchase of Ginger snap is very low among the 15-29 age group.
+- The most profitable age group is the 60-70 group.
+While from the second dashboard,
+- Weekdays contribute more sales and profit
+- The half of the year generates the most profit and revenue.
+
+## Recommendation and Proposal.
+- Less expensive products should be placed in the market inorder to boost sales amongst the 15-29 age group.
+- Inorder to get more profit from the 15-29 group, San Antonion should be focused on more and cash should be the major payment platform.
+- Houston are selling more goods and generating more profit and revenue from the 60-74 age group
