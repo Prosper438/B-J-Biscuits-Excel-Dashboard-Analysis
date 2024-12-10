@@ -79,7 +79,7 @@ health and identify areas for strategic focus.
 ### Datasource 
 The project consists of two dataset namely, Transaction dataset and products dataset. <br>
 This gives you access to the raw data used for the project .  [B&J Buscuit Practice Dataset.xlsx](https://github.com/user-attachments/files/18069115/B.J.Buscuit.Practice.Dataset.xlsx)
-
+Microsoft Excel was the only software package used for this project.
 ## Data Cleaning
 Addition of new of columns was one of the key assignment inorder to prepare the data for proper analysis.
 - The raw data was quite neat from the onset. Firstly, the date columns was formatted to from number to date format.
@@ -93,5 +93,9 @@ Addition of new of columns was one of the key assignment inorder to prepare the 
 - Age group: The floor excel function was used here for grouping the age into interval of 14 years apart.
 - Full Name: This is gotten by using the Text Join function to combine first and last name.
 - Weekdays: With the use of the text function, I was able to format the transaction date into days format.
-- Weektype: This divides the weekdays into weekends and weekdays.
-  
+- Weektype: This divides the weekdays into weekends and weekdays. <br>
+In addition, excel pivot table came in handy in summarizing of data and also for grouping the date data into months,Quarters and others.
+
+## Insights from Analysis.
+From the first dashboard analysis, I was able to conclude that
+- Goods was sold 
