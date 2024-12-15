@@ -110,5 +110,11 @@ While from the second dashboard,
 
 ## Recommendation and Proposal.
 - Less expensive products should be placed in the market inorder to boost sales amongst the 15-29 age group.
-- Inorder to get more profit from the 15-29 group, San Antonion should be focused on more and cash should be the major payment platform.
-- Houston are selling more goods and generating more profit and revenue from the 60-74 age group
+- Inorder to get more profit from the 15-29 group, San Antonio should be focused on more and cash should be the major payment platform.
+- Since Houston are selling more goods and generating more profit and revenue from the 60-74 age group, product brands that are of health benefit should be 
+  constantly sold. Ginger snaps being made from ginger which is spice is of health benefit to eldery people.
+
+## Conclusion.
+The 
+  
+  
