@@ -114,7 +114,6 @@ While from the second dashboard,
 - Since Houston are selling more goods and generating more profit and revenue from the 60-74 age group, product brands that are of health benefit should be 
   constantly sold. Ginger snaps being made from ginger which is spice is of health benefit to eldery people.
 
-## Conclusion.
-The 
+
   
   
