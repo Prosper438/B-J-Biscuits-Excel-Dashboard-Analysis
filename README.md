@@ -77,7 +77,7 @@ changes, enabling swift business responses.
 - Performance Monitoring: Regularly track key metrics to monitor business 
 health and identify areas for strategic focus.
 ### Datasource 
-The project consists of two dataset namely, Transaction dataset and products dataset. <br>
+The project consists of two dataset namely, Transaction dataset and products dataset. The transaction sheet contains 12000 rows and 10 columns whereas the product sheet contains 4 columns and 10 rows. <br>
 This gives you access to the raw data used for the project .  [B&J Buscuit Practice Dataset.xlsx](https://github.com/user-attachments/files/18069115/B.J.Buscuit.Practice.Dataset.xlsx)
 Microsoft Excel was the only software package used for this project.
 ## Data Cleaning
@@ -100,7 +100,7 @@ In addition, excel pivot table came in handy in summarizing of data and also for
 From the first dashboard analysis, I was able to conclude that
 - Generally, mobile payment was the most used payment platform for goods purchase.
 - Debit card generates more revenue and profit in the sense that expensive goods are mostly bought via debit card.
-- The male gender has the highest purchasing power in all age group and in turn generates most revenue and porfit.
+- The male gender has the highest purchasing power in all age group and in turn generates most revenue and profit.
 - In general, expensive product generates the most revenue.
 - The purchase of Ginger snap is very low among the 15-29 age group.
 - The most profitable age group is the 60-70 group.
